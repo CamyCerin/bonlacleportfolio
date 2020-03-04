@@ -1,0 +1,15 @@
+body {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  background-color: $black;
+  color: blue;
+  width: 100vw;
+  height: 100vh;
+}
+
+canvas {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  //   z-index: 5;
+}
