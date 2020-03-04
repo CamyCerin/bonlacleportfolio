@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAP,8EAAO;AGAP,AAAA,IAAI,CAAC;EACH,UAAU,EAAE,MAAM;EAClB,UAAU,EAAE,MAAM;EAClB,gBAAgB,EFAV,OAAO;EECb,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;CACd;;AAED,AAAA,MAAM,CAAC;EACL,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,QAAQ,EAAE,QAAQ;CAEnB",
+    "sources": [
+        "styles.scss",
+        "config/variables.scss",
+        "config/mixins.scss",
+        "config/global.scss",
+        "config/animations.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}

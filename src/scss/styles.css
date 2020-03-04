@@ -1,0 +1,16 @@
+@import url(c:\Users\camil\Documents\git\bonlacleportfolio\src\scss\vendors\reset.css);
+body {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  background-color: #1d1d1d;
+  color: blue;
+  width: 100vw;
+  height: 100vh;
+}
+
+canvas {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+}
+/*# sourceMappingURL=styles.css.map */
