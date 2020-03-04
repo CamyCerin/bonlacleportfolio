@@ -18,12 +18,13 @@
     "canvas": "^2.6.1",
     "gatsby": "^2.19.12",
     "parcel": "^1.12.4",
-    "parcel-bundler": "^1.12.4",
-    "sass": "^1.25.0"
+    "parcel-bundler": "^1.12.4",    
+    "reset.css": "^2.0.2",
+
+    "sass": "^2.0.2"
   },
   "bugs": {
     "url": "https://github.com/CamyCerin/bonlacleportfolio/issues"
   },
-  "homepage": "https://github.com/CamyCerin/bonlacleportfolio#readme",
-  "dependencies": {}
+  "homepage": "https://github.com/CamyCerin/bonlacleportfolio#readme"
 }
